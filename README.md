@@ -1,6 +1,6 @@
 # PyFrame - Minimal Web Framework
 ---
-* "REINVENTING THE WHEEL IS GREAT IF YOUR GOAL IS TO LEARN MORE ABOUT WHEELS." * -Jason Tauber
+*"REINVENTING THE WHEEL IS GREAT IF YOUR GOAL IS TO LEARN MORE ABOUT WHEELS."* -Jason Tauber
 ---
 
 > ### Contents
